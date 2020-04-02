@@ -1,68 +1,61 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Calculator
 
-## Available Scripts
+> This project consists in a build a calculator for Math-magicians Inc using create-react-app, a tool built by developers at Facebook to help in a build React applications.
 
-In the project directory, you can run:
+The screenshot will be taken after the last milestone.
 
-### `yarn start`
+![screenshot](./app_screenshot.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Built With
 
-### `yarn test`
+- React,
+- Heroku,
+- HTML,
+- CSS,
+- Webpack
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Live Demo
 
-### `yarn build`
+[Live Demo Link](https://test01-my-app.herokuapp.com/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Install
 
-### `yarn eject`
+Download or clone the [repo here](https://github.com/thsvr/calculator), enter the directory in the terminal and run the commands:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- `npm i`
+- `npm run start`
+  Your default browser should open the app at the localhost:3000
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Author
 
-## Learn More
+👤 **Thaís Vieira Azevedo**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Portfolio: [Thais' Portfolio](https://thais-software-developer.netlify.com/)
+- Github: [@thsvr](https://github.com/thsvr)
+- Twitter: [@vr_ths](https://twitter.com/vr_ths)
+- Linkedin: [Thaís V.](https://www.linkedin.com/in/vr-ths-zd/)
+- Email: [vr.ths.zd@gmail.com](vr.ths.zd@gmail.com)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<br />
+<br />
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Show your support
 
-### Analyzing the Bundle Size
+Give a ⭐️ if you like this project!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Acknowledgements
 
-### Making a Progressive Web App
+- [Microverse](https://www.microverse.org/)
+- [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
