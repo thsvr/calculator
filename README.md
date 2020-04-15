@@ -1,8 +1,8 @@
 # Calculator
 
-> This project consists in a build a calculator for Math-magicians Inc using create-react-app, a tool built by developers at Facebook to help in a build React applications.
+> This project consists of a build a calculator for Math-magicians Inc using create-react-app.  create-react-app is a tool built by developers at Facebook to help in a build React applications.
 
-The screenshot will be taken after the last milestone.
+> The screenshot will be taken after the last milestone.
 
 ![screenshot](./app_screenshot.png)
 
@@ -13,7 +13,6 @@ The screenshot will be taken after the last milestone.
 - Heroku,
 - HTML,
 - CSS,
-- Webpack
 
 ## Live Demo
 
@@ -52,7 +51,8 @@ Give a ⭐️ if you like this project!
 ## Acknowledgements
 
 - [Microverse](https://www.microverse.org/)
-- [Create React App](https://github.com/facebook/create-react-app).
+- [Fontawsome](https://fontawesome.com/)
+- [Create React App](https://github.com/facebook/create-react-app)
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
