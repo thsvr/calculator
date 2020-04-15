@@ -1,24 +1,20 @@
 # Calculator
 
 > This project consists of a build a calculator for Math-magicians Inc using create-react-app.  create-react-app is a tool built by developers at Facebook to help in a build React applications.
-
 > The screenshot will be taken after the last milestone.
 
 ![screenshot](./app_screenshot.png)
-
 
 ## Built With
 
 - React,
 - Heroku,
 - HTML,
-- CSS,
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://test01-my-app.herokuapp.com/)
-
-
+[Live Demo Link](https://calculator-test4.herokuapp.com/)
 
 ### Install
 
@@ -27,8 +23,6 @@ Download or clone the [repo here](https://github.com/thsvr/calculator), enter th
 - `npm i`
 - `npm run start`
   Your default browser should open the app at the localhost:3000
-
-
 
 ## Author
 
@@ -40,10 +34,6 @@ Download or clone the [repo here](https://github.com/thsvr/calculator), enter th
 - Linkedin: [Thaís V.](https://www.linkedin.com/in/vr-ths-zd/)
 - Email: [vr.ths.zd@gmail.com](vr.ths.zd@gmail.com)
 
-<br />
-<br />
-
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
@@ -54,8 +44,3 @@ Give a ⭐️ if you like this project!
 - [Fontawsome](https://fontawesome.com/)
 - [Create React App](https://github.com/facebook/create-react-app)
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-
-
-
