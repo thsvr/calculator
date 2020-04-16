@@ -3,7 +3,7 @@
 > This project consists of a build a calculator for Math-magicians Inc using create-react-app.  create-react-app is a tool built by developers at Facebook to help in a build React applications.
 > The screenshot will be taken after the last milestone.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./image1-to-add?raw=true)
 
 ## Built With
 
