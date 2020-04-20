@@ -5,8 +5,8 @@ import PropTypes from 'prop-types';
 // import Big from 'big.mjs';
 
 const Button = buttonName => (
-  <button type="submit" className="buttonName">
-    {buttonName}
+  <button type="submit" className="btnStyle">
+    {"buttonName"}
   </button>
 );
 

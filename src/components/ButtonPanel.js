@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Button from './Button';
 
-const ButtonPanel = ({clickBtn}) => {
+const ButtonPanel = ({ clickBtn }) => {
   const handleClick = buttonName => {
     clickBtn(buttonName);
   };
@@ -45,7 +45,7 @@ const ButtonPanel = ({clickBtn}) => {
   );
 };
 
-ButtonPanel.prototypes = {
+ButtonPanel.propTypes = {
   clickBtn: PropTypes.func.isRequired,
 };
 
