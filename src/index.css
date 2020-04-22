@@ -27,8 +27,15 @@ code {
 
 /* Display component */
 .display {
-  background-color: chartreuse;
-  margin: 15px;
+  width: 100%;
+  font-size: 70px;
+
+  background-color: lightgray;
+  height:100px;
+  color:white;
+  font-weight: bold;
+  align-items: center;
+  justify-content: flex-end;
   padding: 10px;
 
   display: flex;
