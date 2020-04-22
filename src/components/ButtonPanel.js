@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Button from './Button';
+// import Display from './Display';
 
 const ButtonPanel = ({ clickBtn }) => {
   const handleClick = buttonName => {
@@ -8,6 +9,10 @@ const ButtonPanel = ({ clickBtn }) => {
   };
   return (
     <div className="container">
+      {/* <div>
+        <Display result="It will be defined" />
+      </div> */}
+
       <div className="group1">
         <Button name="A/C" clickBtn={handleClick} />
         <Button name="+/-" clickBtn={handleClick} />

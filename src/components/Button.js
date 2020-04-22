@@ -1,17 +1,16 @@
-/* eslint-disable react/no-unused-prop-types */
 import React from 'react';
 
 import PropTypes from 'prop-types';
 // import Big from 'big.mjs';
 
-const Button = buttonName => (
+const Button = ({ name }) => (
   <button type="submit" className="btnStyle">
-    {"buttonName"}
+    {name}
   </button>
 );
 
 Button.propTypes = {
-  buttonName: PropTypes.string.isRequired,
+  name: PropTypes.string.isRequired,
 };
 
 

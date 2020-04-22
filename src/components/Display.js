@@ -1,12 +1,10 @@
-/* eslint-disable react/no-unused-prop-types */
-/* eslint-disable no-undef */
 import React from 'react';
 import PropTypes from 'prop-types';
 // import Big from 'big.mjs';
 
-const Display = () => (
+const Display = result => (
   <div className="display">
-    <p>{'result'}</p>
+    <p>result</p>
   </div>
 );
 
