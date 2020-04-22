@@ -73,9 +73,14 @@ code {
 
 button {
   background-color: lightgray;
-  width:25%;
+  /* width:25%; */
   color: black;
   border-style: solid;
   border-color: lightslategrey;
   font-size: 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.5;
 }
