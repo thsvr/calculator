@@ -30,15 +30,14 @@ code {
   width: 100%;
   font-size: 70px;
 
+  display: flex;
   background-color: lightgray;
   height:100px;
   color:white;
   font-weight: bold;
   align-items: center;
   justify-content: flex-end;
-  padding: 10px;
-
-  display: flex;
+  padding: 10px;  
 }
 
 /* ButtonPanel component */
@@ -46,13 +45,25 @@ code {
   background-color: coral;
   margin: 15px;
   padding: 10px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
 
   display: flex;
+  
+
   flex-direction: column;
   align-items: space-around;
+
 }
 
 .group1, .group2, .group3, .group4, .group5 {
+  height: 100px;
+
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: space-around;
   background-color: cyan;
   padding: 10px;
   margin: 10px;
