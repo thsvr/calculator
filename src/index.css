@@ -31,7 +31,7 @@ code {
   font-size: 70px;
 
   display: flex;
-  background-color: lightgray;
+  background-color: lightslategrey;
   height:100px;
   color:white;
   font-weight: bold;
@@ -70,3 +70,12 @@ code {
 }
 
 /* Button component */
+
+button {
+  background-color: lightgray;
+  width:25%;
+  color: black;
+  border-style: solid;
+  border-color: lightslategrey;
+  font-size: 20px;
+}

@@ -41,6 +41,7 @@ const ButtonPanel = ({ clickBtn }) => {
         <Button name="0" clickBtn={handleClick} />
         <Button name="." clickBtn={handleClick} />
         <Button name="=" clickBtn={handleClick} />
+        <Button name=" Logo " clickBtn={handleClick} />
       </div>
     </div>
   );
