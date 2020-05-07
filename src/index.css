@@ -1,13 +1,57 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* App component */
+.app-class {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  justify-content: center;
+  align-items: center;
+  margin-left:250px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Display component */
+.display {
+  width: 680px;
+  font-size: 70px;
+  display: flex;
+  background-color: grey;
+  opacity: 0.7;
+  height:100px;
+  color:white;
+  font-weight: bold;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 10px;  
+}
+
+/* ButtonPanel component */
+.container {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex; 
+  flex-direction: column;
+  align-items: space-around;
+}
+
+.group1, .group2, .group3, .group4, .group5 {
+  height: 100px;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  align-items: space-around;
+}
+
+/* Button component */
+button {
+  background-color: lightgray;
+  color: black;
+  border-style: solid;
+  border-color: lightslategrey;
+  font-size: 20px;
+  cursor: pointer;
+  
+}
+
+button:hover {
+  opacity: 0.5;
 }

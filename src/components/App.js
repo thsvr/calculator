@@ -5,7 +5,7 @@ import ButtonPanel from './ButtonPanel';
 // import Big from 'big.mjs';
 
 const App = () => (
-  <div id="appId">
+  <div id="appId" className="app-class">
     <Display />
     <ButtonPanel />
   </div>
