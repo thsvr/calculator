@@ -17,7 +17,7 @@ const Operate = (numberOne, numberTwo, operation) => {
       break;
     case '/':
       if (secondNum === '0') {
-        finalResult = '0';
+        finalResult = NaN;
       }
       finalResult = firstNum.div(secondNum);
       break;
